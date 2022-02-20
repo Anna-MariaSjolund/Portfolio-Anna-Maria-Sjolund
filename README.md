@@ -5,3 +5,10 @@ My passion for science has taken me from a bachelor's degree, with a major in ps
 It was during my two years at Radboud University that I first came into contact with programming, as part of the master programme. We used R for statistical analyses (such as regression and SEM) and we also learned how to create simple experiments in Python. After I had moved back to Sweden, I worked as a research assistant in a qualitative project in developmental psychology at the University of Gothenburg. Even though this work was very rewarding, I missed a more quantitative approach. 
 
 In August 2021 I started my studies in AI and machine learning at IT-högskolan in Gothenburg. I look forward to the studies and hope to be able to draw parallels between my previous experiences in psychology and the new ones that I will gain in the field of AI, machine learning and deep learning.
+
+### Portfolio
+
+| Link | Description |
+-------| -----------------------------------------------|
+|[Olympic Games Dashboard](https://olympic-games-usa.herokuapp.com/) | Dashboard created together with Christopher Seander. |
+|[Predicting House Prices ](https://github.com/Anna-MariaSjolund/Introduction-to-AI/blob/main/PredictingHousePricesUsingLinearRegression.md)| An essay.|
