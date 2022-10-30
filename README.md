@@ -1,6 +1,6 @@
 # Anna-Maria Sjölund
 
-About a year ago I decided it was time for a career change. With a research master's degree in behavioural science and skills in advanced statistics (using R), research methods, problem solving and critical thinking, I came to the conclusion that a career in data science was the way to go. In the autumn of 2021, I began my studies in AI and machine learning at IT-högskolan. 
+A couple of years ago I decided it was time for a career change. With a research master's degree in behavioural science and skills in advanced statistics (using R), research methods, problem solving and critical thinking, I came to the conclusion that a career in data science was the way to go. In the autumn of 2021, I began my studies in AI and machine learning at IT-högskolan. 
 
 The program at IT-högskolan has been a mix of theory and practice, focusing on programming in Python and building the solid foundation needed for studying machine learning and deep learning.
 
