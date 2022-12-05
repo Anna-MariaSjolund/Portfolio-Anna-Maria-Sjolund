@@ -13,7 +13,7 @@ Below, you will find some examples of what I have learned so far (more examples 
 |[Dogs vs. Cats](https://github.com/Anna-MariaSjolund/Deep-Learning-Anna-MariaSjolund/blob/main/labs/lab-dogs-vs-cats.ipynb) | I created a convolutional neural network for classifying dogs and cats. I also improved the predictions by using data augmentation and by fine-tuning a pretrained network. | Deep Learning |
 |[Disease Prediction](https://github.com/Anna-MariaSjolund/Machine-learning-Anna-MariaSjolund/blob/main/labs/lab_disease_prediction.ipynb) | I predicted cardiovascular disease, using different machine learning methods. | Machine Learning |
 |[Movie Recommendation](https://github.com/Anna-MariaSjolund/Machine-learning-Anna-MariaSjolund/blob/main/labs/lab_movie_recommendations.ipynb)| I used KNN for making movie recommendations. | Machine Learning |
-|[Olympic Games Dashboard](https://olympic-games-usa.herokuapp.com/) | Dashboard created together with a classmate. I was responsible for the USA data. | Data Handling|
+|[Olympic Games Dashboard](https://github.com/Anna-MariaSjolund/Databehandling-OS-projekt-Anna-MariaSjolund-ChristopherSeander) | Dashboard created together with a classmate. I was responsible for the USA data. | Data Handling|
 |[Predicting House Prices](https://github.com/Anna-MariaSjolund/Introduction-to-AI/blob/main/PredictingHousePricesUsingLinearRegression.md)| An essay, written during the first course at ITHS. | Introduction to AI |
 
 ### Contact :envelope:
